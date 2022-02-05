@@ -1,5 +1,5 @@
 <h2>Hello There😁</h2>
-<h4>I am Geethika Singareddy , currently a second year undergrad from India . I am a passionate web developer and currently working on backend web development . Apart from this , I am also interested in Competitive programming and like writing technical articles . Do check out my recent articles here ....</h3>
+<h4>I am Geethika Singareddy , currently a second year undergraduate from India . I am a passionate web developer and currently working on backend web development . Apart from this , I am also interested in Competitive programming and like writing technical articles . Do check out my recent articles here ....</h3>
  https://auth.geeksforgeeks.org/user/geethika1129/articles
 
 <h3 align="left">Connect with me:</h3>
