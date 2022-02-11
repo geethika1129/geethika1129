@@ -1,5 +1,5 @@
 <h2>Hello There😁</h2>
-<h4>I am Geethika Singareddy , currently a second year undergraduate from India . I am a passionate web developer and currently working on backend web development . Apart from this , I am also interested in Competitive programming and like writing technical articles . Do check out my recent articles here ....</h3>
+<h4>I am Geethika , currently a second year undergraduate from India . I am a passionate web developer and currently working on backend web development . Apart from this , I am also interested in Competitive programming and like writing technical articles . Do check out my recent articles here ....</h3>
  https://auth.geeksforgeeks.org/user/geethika1129/articles
 
 <h3 align="left">Connect with me:</h3>
@@ -17,6 +17,7 @@
 <a href="https://codeforces.com/profile/geethika1129" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="geethika1129" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/geethika1129" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="geethika1129" height="30" width="40" /></a>
 <a href="https://www.hackerearth.com/@geethika1129" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@geethika1129" height="30" width="40" /></a>
+ <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
