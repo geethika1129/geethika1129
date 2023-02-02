@@ -25,4 +25,4 @@
  &nbsp;&nbsp;
  <p align="left"> &nbsp; <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=geethika1129&layout=compact&theme=highcontrast" width="42%"/></p>
 
-<img align="right" src=" https://user-images.githubusercontent.com/83590629/216330692-79c1e7b6-d996-4681-8e86-67fc3097aad8.gif" width="300" height="300">
+<img align="right" src="new.gif" width="300" height="300">
