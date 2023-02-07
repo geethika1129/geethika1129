@@ -4,7 +4,7 @@
 
  https://auth.geeksforgeeks.org/user/geethika1129/articles
 
-
+<img align="right" src="new.gif" width="450" height="350">
 ## 🛠 Skills
 <b>Languages:</b> C , C++ , Java , Python , JavaScript 
 
@@ -25,4 +25,4 @@
  &nbsp;&nbsp;
  <p align="left"> &nbsp; <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=geethika1129&layout=compact&theme=highcontrast" width="42%"/></p>
 
-<img align="right" src="new.gif" width="300" height="300">
+
