@@ -1,6 +1,6 @@
 
 ## Hello There😁
-<b>I am Geethika, currently persuing my bachelors in Computer Science and Engineering degree. I am currently working on Data Science and looking forward to collaborate. Apart from this, I am also interested in Competitive programming and like writing technical articles. Do check out my recent articles here....</b>
+<b>I am Geethika, currently pursuing my bachelors in Computer Science and Engineering degree. I am currently working on Data Science and looking forward to collaborate. Apart from this, I am also interested in Competitive programming and like writing technical articles. Do check out my recent articles here....</b>
 
  https://auth.geeksforgeeks.org/user/geethika1129/articles
 
