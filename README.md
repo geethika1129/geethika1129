@@ -5,7 +5,9 @@
  https://auth.geeksforgeeks.org/user/geethika1129/articles
 
 <img align="right" src="new.gif" width="450" height="350">
-## 🛠 Skills
+
+<!-- ## 🛠 Skills<br> -->
+## 🛠 Skills<br>
 <b>Languages:</b> C , C++ , Java , Python , JavaScript 
 
 <b>Front-end:</b> HTML , CSS , React , Angular , Bootstrap , Materialize , Semantic-UI
