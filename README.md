@@ -83,12 +83,12 @@
 <a href="https://github.com/oussamabouchikhi/oussamabouchikhi">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=geethika1129&hide_border=true&layout=compact" align="left" /> 
 </a>
-
+<!--
 <a href="https://github.com/geethika1129">
   <img align="center" length="200px" width="200px" padding-left="70px" src="https://github.com/raghavk16/raghavk16/blob/master/octo.gif" />
   
 </a>
-
+-->
 
 
 <hr>
